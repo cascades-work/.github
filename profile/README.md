@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cascades-work/.github/main/banner.png" alt="Cascades" width="100%">
+</p>
+
 # Cascades
 
 Cascades is an orchestration platform for data, AI, infrastructure, and event-driven workflows.
