@@ -1,0 +1,11 @@
+<!-- Copyright (c) 2026 Noir Stack LLC. All Rights Reserved. Cascades brand asset. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 96" role="img" aria-label="Cascades logo">
+  <g>
+    <path d="M24 16 66 80 106 24" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M66 80H128" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" />
+    <path d="M120 80H128" fill="none" stroke="#2ED8E7" stroke-width="6" stroke-linecap="round" />
+  </g>
+  <text x="152" y="66" font-family="Schibsted Grotesk, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="5">
+    <tspan fill="currentColor">CASCADE</tspan><tspan fill="#2ED8E7">S</tspan>
+  </text>
+</svg>

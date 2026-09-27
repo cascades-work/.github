@@ -1,0 +1,6 @@
+<!-- Copyright (c) 2026 Noir Stack LLC. All Rights Reserved. Cascades brand asset. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Cascades watermark">
+  <path d="M220 216 484 644 736 268" fill="none" stroke="currentColor" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M484 644H820" fill="none" stroke="currentColor" stroke-width="34" stroke-linecap="round" />
+  <path d="M770 644H820" fill="none" stroke="#2ED8E7" stroke-width="46" stroke-linecap="round" />
+</svg>

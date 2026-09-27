@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/banner.png" alt="Cascades" width="100%">
+  <a href="https://cascades.work">
+    <img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/repository-banner.png" alt="Cascades" width="100%">
+  </a>
 </p>
 
 # Cascades
@@ -23,10 +25,12 @@ The Cascades organization contains the core platform, plugins, SDKs, integration
 
 ## Community
 
-- [Discord](https://discord.gg/Qu5gKvWcT)
-- [Bluesky](https://bsky.app/profile/cascades-work.bsky.social/)
-- [LinkedIn](https://www.linkedin.com/company/cascades-work)
-- [YouTube](https://youtube.com/@cascades-work)
+<div align="center">
+  <a href="https://discord.gg/Qu5gKvWcT"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/discord.svg" width="20" height="20" alt="Discord" title="Discord" /></a>&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/cascades-work.bsky.social"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/bluesky.svg" width="20" height="20" alt="Bluesky" title="Bluesky" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/cascades-work"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/linkedin.svg" width="20" height="20" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@cascades-work"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/youtube.svg" width="20" height="20" alt="YouTube" title="YouTube" /></a>
+</div>
 
 ## Contributing
 
