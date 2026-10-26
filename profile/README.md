@@ -37,3 +37,9 @@ The Cascades organization contains the core platform, plugins, SDKs, integration
 Cascades is developed in the open. Issues, pull requests, integrations, and plugin contributions are welcome.
 
 Start with the [main Cascades repository](https://github.com/cascades-work/cascades) for project documentation, contribution guidance, and release information.
+
+## Copyright and commercial distribution
+
+© 2026 Hira Barton. All rights reserved. Cascades is owned by Hira Barton and commercially licensed and distributed by Noir Stack LLC.
+
+[Application ownership and commercial distribution notice](https://github.com/cascades-work/.github/blob/main/APPLICATION-LICENSE.txt)
