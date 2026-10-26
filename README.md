@@ -26,10 +26,10 @@ The Cascades organization contains the core platform, plugins, SDKs, integration
 ## Community
 
 <div align="center">
-  <a href="https://discord.gg/KwMRPGttQ"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/discord.svg" width="20" height="20" alt="Discord" title="Discord" /></a>&nbsp;&nbsp;
-  <a href="https://bsky.app/profile/cascades-work.bsky.social"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/bluesky.svg" width="20" height="20" alt="Bluesky" title="Bluesky" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/cascades-work"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/linkedin.svg" width="20" height="20" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@cascades-work"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/youtube.svg" width="20" height="20" alt="YouTube" title="YouTube" /></a>
+  <a href="https://discord.gg/KwMRPGttQ"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/discord.svg" width="24" height="24" alt="Discord" title="Discord" /></a>&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/cascades-work.bsky.social"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/bluesky.svg" width="24" height="24" alt="Bluesky" title="Bluesky" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/cascades-work"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/linkedin.svg" width="24" height="24" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@cascades-work"><img src="https://raw.githubusercontent.com/cascades-work/.github/main/assets/branding/social/icons/youtube.svg" width="24" height="24" alt="YouTube" title="YouTube" /></a>
 </div>
 
 ## Contributing
@@ -37,3 +37,9 @@ The Cascades organization contains the core platform, plugins, SDKs, integration
 Cascades is developed in the open. Issues, pull requests, integrations, and plugin contributions are welcome.
 
 Start with the [main Cascades repository](https://github.com/cascades-work/cascades) for project documentation, contribution guidance, and release information.
+
+## Copyright and commercial distribution
+
+© 2026 Hira Barton. All rights reserved. Cascades is owned by Hira Barton and commercially licensed and distributed by Noir Stack LLC.
+
+[Application ownership and commercial distribution notice](https://github.com/cascades-work/.github/blob/main/APPLICATION-LICENSE.txt)
