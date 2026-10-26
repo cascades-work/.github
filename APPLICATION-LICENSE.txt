@@ -1,0 +1,46 @@
+Cascades Application — Copyright and Commercial Distribution License
+
+Copyright © 2026 Hira Barton. All rights reserved.
+
+Software: Cascades
+Copyright Owner: Hira Barton
+Authorized Commercial Licensee and Distributor: Noir Stack LLC
+
+1. Ownership of Intellectual Property
+
+Cascades, including its original source code, application architecture, software components, user interfaces, documentation, designs, and other original proprietary materials, is owned by Hira Barton, subject to any applicable third-party rights.
+
+All copyrights and other intellectual property rights in these original materials remain vested in Hira Barton.
+
+No transfer, assignment, or conveyance of copyright ownership to Noir Stack LLC is intended or implied by this notice.
+
+2. Commercial Licensing and Distribution Authorization
+
+Hira Barton authorizes Noir Stack LLC to commercially market, offer, sell, license, sublicense, and distribute Cascades software and related products and services, subject to the terms of the applicable agreement between Hira Barton and Noir Stack LLC.
+
+Noir Stack LLC may act as the authorized commercial distributor and licensing provider for Cascades.
+
+This authorization does not transfer ownership of the underlying intellectual property.
+
+3. Reservation of Rights
+
+All rights not expressly granted are reserved by Hira Barton.
+
+Noir Stack LLC receives only those rights expressly authorized by the copyright owner.
+
+4. End-User Licensing
+
+Customer and end-user access to Cascades is governed by the applicable end-user license agreement, subscription terms, or commercial agreement.
+
+Purchase, subscription, download, or access does not transfer copyright ownership.
+
+5. Copyright and Licensing Notice
+
+Copyright © 2026 Hira Barton. All rights reserved.
+
+Cascades is independently owned by Hira Barton and commercially licensed and distributed by Noir Stack LLC under authorization from the copyright owner.
+
+Official website: https://cascades.work
+
+Commercial licensing: Noir Stack LLC
+https://noirstack.com
